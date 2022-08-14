@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "spellcrafting",
+    "name": "Spellcrafting",
+    "authors": [ "Lightwave" ],
+    "maintainers": [ "Lightwave", "kenp322" ],
+    "description": "Research and craft spell scrolls for Magiclysm",
+    "category": "content",
+    "dependencies": [ "dda", "magiclysm" ],
+    "obsolete": false
+  }
+]
